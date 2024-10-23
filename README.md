@@ -38,8 +38,8 @@ This repository contains various projects that utilize Langchain to demonstrate 
 - Client: api-testing/client.py
 
 ## Features
-**Integrations**: Multiple LLMs like OpenAI's GPT-3.5, GPT-4, and Llama 2 via Ollama API.
-**Chat History**: Projects like "Chat with Websites" and "Conversational Q&A" maintain a history of user interactions to provide context-aware responses.
-**Document Retrieval**: "Chat with Websites" project can retrieve and chat with documents (web content) dynamically.
-**API Interaction**: "API Testing" project offers RESTful APIs to interact with LLMs for generating text responses based on user input.
+- **Integrations**: Multiple LLMs like OpenAI's GPT-3.5, GPT-4, and Llama 2 via Ollama API.
+- **Chat History**: Projects like "Chat with Websites" and "Conversational Q&A" maintain a history of user interactions to provide context-aware responses.
+- **Document Retrieval**: "Chat with Websites" project can retrieve and chat with documents (web content) dynamically.
+- **API Interaction**: "API Testing" project offers RESTful APIs to interact with LLMs for generating text responses based on user input.
 
